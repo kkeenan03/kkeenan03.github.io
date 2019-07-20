@@ -1,0 +1,21 @@
+body {
+    align: left;
+    background-color: #ffffff;
+    color: #392613;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+.footer {
+    text-align: center;
+    color: deeppink;
+    font-size: 12px;
+}
+
+#slogan {
+    color: #27aae1;
+    font-style: italic;
+}
+
+#instagram {
+    text-align: center;
+}
